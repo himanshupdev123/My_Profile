@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Himanshu</string>
+    <string name="name">Himanshu Prapulla Devaraj</string>
+    <string name="profession">Android Developer</string>
+    <string name="about">A National Record Holder at the India Book of Records,\nWorld Record Holder at the World Wide Book of Records\n
+       A Passionate Cinematographer,Writer and Film Maker</string>
+    <string name="work">view work</string>
+    <string name="homebutton">Home</string>
+    <string name="himanshu_image">Himanshu image</string>
+</resources>
